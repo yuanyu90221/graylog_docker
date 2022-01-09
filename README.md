@@ -20,7 +20,7 @@ docker-compose --compatibility up -d
 ```
 
 ```shell
-docker-compose --compatibility down -d
+docker-compose --compatibility down
 ```
 
 ## 在graylog 加入 gelf input 讓 docker 可以直接透過這個 input 蒐集資料
