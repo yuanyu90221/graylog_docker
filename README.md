@@ -28,3 +28,5 @@ docker-compose --compatibility down -d
 https://www.jianshu.com/p/25e310596559
 
 ## 需要再研究一下 winston 集中送 log 到graylog 的方式
+
+https://github.com/namshi/winston-graylog2
